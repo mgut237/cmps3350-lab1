@@ -1,4 +1,4 @@
-// CMPS 3350 - lab 1 focuses on source control :3
+// CMPS 3350 - lab 1 focuses on git and source control :3
 // Prints each command-line argument passed into the program, one per line
 #include <stdio.h>
 
